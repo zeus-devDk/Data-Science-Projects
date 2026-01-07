@@ -1,0 +1,12 @@
+Day 1: Getting Insights into Data Science
+
+Today, I started by initializing the latest version of MySQL Workbench with a complete setup and quickly moved into using the application hands-on.
+I began with a predefined table to understand basic table navigation. By double-clicking a schema, it gets activated (darkened), which allows running SELECT statements without specifying the schema name every time making data retrieval faster and cleaner.
+
+Next, I worked with classic wildcard SELECT statements. When a schema is not initialized, using SELECT * FROM schema_name.table_name helps fetch complete table information.
+
+I then practiced selecting multiple columns using comma separation and placing them on different lines, which improves readability and workflow, especially when performing calculations on specific columns.
+
+I also learned about PEMDAS (Parentheses, Exponents, Multiplication, Division, Addition, Subtraction), which defines the order of calculations followed by MySQL. Finally, I explored the DISTINCT function to eliminate duplicate values in rows. For example, applying it to a gender column returns only unique values like male and female, regardless of repetition.
+
+Overall, a productive first day understanding database basics and SQL operations.
